@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		C11098DE15E9EE1600406ED0 /* chatSvr.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = chatSvr.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		C11098D115E9EDE100406ED0 = {
 			isa = PBXGroup;
 			children = (
+				C11098DE15E9EE1600406ED0 /* chatSvr.py */,
 			);
 			sourceTree = "<group>";
 		};
